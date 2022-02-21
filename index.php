@@ -7,7 +7,7 @@
     <h1>Welcome to my Website! I am Jerard Cordero! </h1>
     <ul>
     <li><a href="index.php">HOME</a></li>
-    <li><a href="/LT2/index.html">LEARNING TASK 2</a></li>
+    <li><a href="home1.html" target="_blank" ><li>home</li></a>
     </ul>
     </body>
 </html>
