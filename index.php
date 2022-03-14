@@ -6,7 +6,6 @@
   <body>
     <h1>Welcome to My Website! Jerard Cordero!</h1>
     <ul>
-      <li><a href="index.html">HOME</a></li>
       <li><a href="index.html">Learning Task 3</a></li>
     </ul>
   </body>
