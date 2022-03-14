@@ -1,0 +1,110 @@
+#wrapper{
+    width: 2200px;
+    height: 1600px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background-image: url(star.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+#box-one{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-two{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-three{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-four{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-five{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-six{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-seven{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-eight{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-nine{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
+#box-ten{
+    width: 200px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: deeppink
+    
+}
